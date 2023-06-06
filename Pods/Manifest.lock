@@ -1,0 +1,24 @@
+PODS:
+  - IGListDiffKit (4.0.0)
+  - IGListKit (4.0.0):
+    - IGListDiffKit (= 4.0.0)
+  - PureLayout (3.1.9)
+
+DEPENDENCIES:
+  - IGListKit
+  - PureLayout
+
+SPEC REPOS:
+  trunk:
+    - IGListDiffKit
+    - IGListKit
+    - PureLayout
+
+SPEC CHECKSUMS:
+  IGListDiffKit: 665d6cf43ce726e676013db9c7d6c4294259b6b2
+  IGListKit: fd5a5d21935298f5849fa49d426843cff97b77c7
+  PureLayout: 5fb5e5429519627d60d079ccb1eaa7265ce7cf88
+
+PODFILE CHECKSUM: 73035e026395da4727b9acedc111523fc0f73a3f
+
+COCOAPODS: 1.12.1

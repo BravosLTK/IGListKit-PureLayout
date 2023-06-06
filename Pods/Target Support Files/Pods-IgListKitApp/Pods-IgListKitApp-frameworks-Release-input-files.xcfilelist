@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-IgListKitApp/Pods-IgListKitApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IGListDiffKit/IGListDiffKit.framework
+${BUILT_PRODUCTS_DIR}/IGListKit/IGListKit.framework
+${BUILT_PRODUCTS_DIR}/PureLayout/PureLayout.framework
